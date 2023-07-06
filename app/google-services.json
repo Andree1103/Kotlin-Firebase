@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200215169973",
+    "project_id": "fir-app-54ced",
+    "storage_bucket": "fir-app-54ced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200215169973:android:44bf788530e1fa292ea7fc",
+        "android_client_info": {
+          "package_name": "com.cibertec.firebaseapp10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200215169973-mnbvu6sg6pi4fpin589j2di9ca4fsmjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL0_L-ii44y31mriJegdviQDVwsZt3dks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200215169973-mnbvu6sg6pi4fpin589j2di9ca4fsmjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
